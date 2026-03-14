@@ -1,0 +1,10 @@
+/Users/manas.gupta/IdeaProjects/MicrosoftCodingRound/src/main/java/com/ai/chatbot/service/LLMClient.java
+/Users/manas.gupta/IdeaProjects/MicrosoftCodingRound/src/main/java/com/ai/chatbot/model/Conversation.java
+/Users/manas.gupta/IdeaProjects/MicrosoftCodingRound/src/main/java/com/ai/chatbot/MockLlmWrapperApplication.java
+/Users/manas.gupta/IdeaProjects/MicrosoftCodingRound/src/main/java/com/ai/chatbot/cli/TerminalInterface.java
+/Users/manas.gupta/IdeaProjects/MicrosoftCodingRound/src/main/java/com/ai/chatbot/controller/ChatController.java
+/Users/manas.gupta/IdeaProjects/MicrosoftCodingRound/src/main/java/com/ai/chatbot/model/ChatRequest.java
+/Users/manas.gupta/IdeaProjects/MicrosoftCodingRound/src/main/java/com/ai/chatbot/service/MockLLMClient.java
+/Users/manas.gupta/IdeaProjects/MicrosoftCodingRound/src/main/java/com/ai/chatbot/model/ChatMessage.java
+/Users/manas.gupta/IdeaProjects/MicrosoftCodingRound/src/main/java/com/ai/chatbot/model/ChatResponse.java
+/Users/manas.gupta/IdeaProjects/MicrosoftCodingRound/src/main/java/com/ai/chatbot/service/ChatService.java

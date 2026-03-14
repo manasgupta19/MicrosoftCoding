@@ -1,0 +1,11 @@
+com/ai/chatbot/service/MockLLMClient.class
+com/ai/chatbot/controller/ChatController.class
+com/ai/chatbot/cli/TerminalInterface.class
+com/ai/chatbot/service/LLMClient.class
+com/ai/chatbot/model/ChatMessage$ChatMessageBuilder.class
+com/ai/chatbot/model/ChatMessage.class
+com/ai/chatbot/service/ChatService.class
+com/ai/chatbot/MockLlmWrapperApplication.class
+com/ai/chatbot/model/ChatResponse.class
+com/ai/chatbot/model/Conversation.class
+com/ai/chatbot/model/ChatRequest.class
